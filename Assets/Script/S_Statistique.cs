@@ -9,7 +9,6 @@ public struct Statistique
     public int necrose;
 }
 
-
 public class S_Statistique : MonoBehaviour
 {
     public Statistique stat;
