@@ -1,7 +1,8 @@
 
 using UnityEngine;
-public class MouseInputExample : MonoBehaviour
+public class Clickable : MonoBehaviour
 {
+
 
     public GameObject self;
     void Update()
